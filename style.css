@@ -1,0 +1,28 @@
+
+h1 {text-align: center;
+  font-family: fantasy:  copperplate;
+ color:#0bb6e6;
+ text-shadow: 1px 1px 2px #333;
+font-size: 50px;}
+/* NOTE: i wanted to align my header and serched how to apply making it central i also altered the shadow, font , font size and color */
+body {background: rgb(242,3,58);
+background: radial-gradient(circle, rgba(242,3,58,1) 0%, rgba(232,0,33,1) 37%, rgba(0,212,255,1) 61%);}
+/* NOTE: i didnt wnt a plane background so i researched how to change the colour and found a site to apply a gradient of two colours which made the spiderman theme */
+a{
+  text-monospace:courier new;
+  font-weight: bold;
+  font-family: monospace;
+  color: #0bbbe3;
+  font-size: 18px;}
+nav{text-align: center;}
+h2{text-align: center;}
+/* NOTE: i fet that the links looke dout dated and wanted to find a more modern look so i again researched how to create a new font and apply it to the link , i also then changed the fcolour so that it went with the colour gradient */
+
+h2{text-monospace:courier new;
+font-weight: bold;
+font-family: monospace;
+color: black;
+font-size: 35px;}
+/* NOTE:  i wanted to make this heading bold so i chose black to stand out from the rest i also aligned with the centre of the page to allow it to go with the rest of the website */
+p{text-align: center;font: serif}
+/* NOTE: i wnated to make sure my paragraph was centered along with the rest of my website */
